@@ -1,1 +1,5 @@
-Lab_Task_3_Java_Basic
+public class Main{
+    public static void main(String[]args){
+        System.out.print("Hello World!");
+    }
+}
